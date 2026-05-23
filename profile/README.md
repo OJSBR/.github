@@ -17,7 +17,7 @@ Plugin genérico para **OJS 3.4** que envia webhooks HTTP quando submissões sã
 Instalação rápida:
 
 ```bash
-oras pull ghcr.io/ojsbr/ojsbr-webhook:latest
+oras pull ghcr.io/ojsbr/ojsbr-webhook:3.4.latest
 tar -xzf ojsbrWebhook-*.tar.gz -C /caminho/do/ojs/plugins/generic/
 ```
 
