@@ -11,7 +11,8 @@ Plugin genérico para **OJS 3.4** que envia webhooks HTTP quando submissões sã
 | | |
 | --- | --- |
 | Repositório | [github.com/OJSBR/ojsbr-webhook](https://github.com/OJSBR/ojsbr-webhook) |
-| Pacote `.tar.gz` | [GitHub Packages — ojsbr-webhook](https://github.com/orgs/OJSBR/packages/container/ojsbr-webhook) |
+| Pacote `.tar.gz` | [GHCR — ojsbr-webhook](https://github.com/OJSBR/ojsbr-webhook/pkgs/container/ojsbr-webhook) |
+| Releases | [Releases](https://github.com/OJSBR/ojsbr-webhook/releases) |
 | Branch OJS 3.4 | [`stable-3_4_0`](https://github.com/OJSBR/ojsbr-webhook/tree/stable-3_4_0) |
 
 Instalação rápida:
