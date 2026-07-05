@@ -23,6 +23,7 @@ tab (GitHub Container Registry).
 | [whatsAppContributor](https://github.com/OJSBR/whatsAppContributor) | Adds a Phone/WhatsApp (E.164) field to the contributor form | 3.4 · 3.5 | [Releases](https://github.com/OJSBR/whatsAppContributor/releases) |
 | [doiInSummary](https://github.com/OJSBR/doiInSummary) | Shows the article DOI in the issue summary and journal home page | 3.4 · 3.5 | [Releases](https://github.com/OJSBR/doiInSummary/releases) |
 | [ojsbrFilenameRename](https://github.com/OJSBR/ojsbrFilenameRename) | Renames the file delivered on download (configurable pattern) | 3.4 · 3.5 | [Releases](https://github.com/OJSBR/ojsbrFilenameRename/releases) |
+| [orcidManualEntry](https://github.com/OJSBR/orcidManualEntry) | Restores a manual ORCID field when ORCID OAuth is not configured (authenticated ORCID stays recommended) | 3.5 | [Releases](https://github.com/OJSBR/orcidManualEntry/releases) |
 | [ojsbr-webhook](https://github.com/OJSBR/ojsbr-webhook) | Sends HTTP webhooks when submissions are created and articles published | 3.4 | [Releases](https://github.com/OJSBR/ojsbr-webhook/releases) |
 
 ### Open Monograph Press (OMP)
