@@ -26,8 +26,6 @@ tab (GitHub Container Registry).
 | [orcidManualEntry](https://github.com/OJSBR/orcidManualEntry) | Restores a manual ORCID field when ORCID OAuth is not configured (authenticated ORCID stays recommended) | 3.5 | [Releases](https://github.com/OJSBR/orcidManualEntry/releases) |
 | [ojsbr-webhook](https://github.com/OJSBR/ojsbr-webhook) | Sends HTTP webhooks when submissions are created and articles published | 3.4 | [Releases](https://github.com/OJSBR/ojsbr-webhook/releases) |
 | [reviewerRecommendationManager](https://github.com/OJSBR/reviewerRecommendationManager) | Rename (multilingual), reorder and disable reviewer recommendations, preserving review history | 3.4 · 3.5 | [Releases](https://github.com/OJSBR/reviewerRecommendationManager/releases) |
-| [languageToggleByFlag](https://github.com/OJSBR/languageToggleByFlag) | Sidebar block: language toggle with country flags (OJS · OMP · OPS) | 3.5 | [Releases](https://github.com/OJSBR/languageToggleByFlag/releases) |
-| [pln](https://github.com/OJSBR/pln) | Unofficial build of PKP's PN (PLN) preservation plugin, based on pkp/pln#117 | 3.5 | [Releases](https://github.com/OJSBR/pln/releases) |
 
 ### Open Monograph Press (OMP)
 
