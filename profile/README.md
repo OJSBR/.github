@@ -27,6 +27,7 @@ tab (GitHub Container Registry).
 | [ojsbr-webhook](https://github.com/OJSBR/ojsbr-webhook) | Sends HTTP webhooks when submissions are created and articles published | 3.4 | [Releases](https://github.com/OJSBR/ojsbr-webhook/releases) |
 | [reviewerRecommendationManager](https://github.com/OJSBR/reviewerRecommendationManager) | Rename (multilingual), reorder and disable reviewer recommendations, preserving review history | 3.4 · 3.5 | [Releases](https://github.com/OJSBR/reviewerRecommendationManager/releases) |
 | [accessibility](https://github.com/OJSBR/accessibility) | Sidebar accessibility controls for readers: zoom in/out, high-contrast toggle and reset (preferences persist) | 3.3 · 3.4 · 3.5 | [Releases](https://github.com/OJSBR/accessibility/releases) |
+| [vlibras](https://github.com/OJSBR/vlibras) | Embeds the VLibras widget (Brazilian government's Portuguese→Libras sign-language translator) with its floating avatar | 3.3 · 3.4 · 3.5 | [Releases](https://github.com/OJSBR/vlibras/releases) |
 
 ### Open Monograph Press (OMP)
 
