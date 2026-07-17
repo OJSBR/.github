@@ -25,6 +25,9 @@ tab (GitHub Container Registry).
 | [ojsbrFilenameRename](https://github.com/OJSBR/ojsbrFilenameRename) | Renames the file delivered on download (configurable pattern) | 3.4 · 3.5 | [Releases](https://github.com/OJSBR/ojsbrFilenameRename/releases) |
 | [orcidManualEntry](https://github.com/OJSBR/orcidManualEntry) | Restores a manual ORCID field when ORCID OAuth is not configured (authenticated ORCID stays recommended) | 3.5 | [Releases](https://github.com/OJSBR/orcidManualEntry/releases) |
 | [ojsbr-webhook](https://github.com/OJSBR/ojsbr-webhook) | Sends HTTP webhooks when submissions are created and articles published | 3.4 | [Releases](https://github.com/OJSBR/ojsbr-webhook/releases) |
+| [reviewerRecommendationManager](https://github.com/OJSBR/reviewerRecommendationManager) | Rename (multilingual), reorder and disable reviewer recommendations, preserving review history | 3.4 · 3.5 | [Releases](https://github.com/OJSBR/reviewerRecommendationManager/releases) |
+| [languageToggleByFlag](https://github.com/OJSBR/languageToggleByFlag) | Sidebar block: language toggle with country flags (OJS · OMP · OPS) | 3.5 | [Releases](https://github.com/OJSBR/languageToggleByFlag/releases) |
+| [pln](https://github.com/OJSBR/pln) | Unofficial build of PKP's PN (PLN) preservation plugin, based on pkp/pln#117 | 3.5 | [Releases](https://github.com/OJSBR/pln/releases) |
 
 ### Open Monograph Press (OMP)
 
@@ -32,6 +35,7 @@ tab (GitHub Container Registry).
 |--------|--------------|----------|----------|
 | [customMetadata](https://github.com/OJSBR/customMetadata) | Configurable extra metadata fields on the publication Metadata tab | 3.4 · 3.5 | [Releases](https://github.com/OJSBR/customMetadata/releases) |
 | [crossref](https://github.com/OJSBR/crossref) | Crossref DOI registration/export for monographs and chapters (fills a gap OMP core lacks) | 3.4 · 3.5 | [Releases](https://github.com/OJSBR/crossref/releases) |
+| [assignEditorGeneral](https://github.com/OJSBR/assignEditorGeneral) | Automatically assigns all active General Editors to each new submission | 3.5 | [Releases](https://github.com/OJSBR/assignEditorGeneral/releases) |
 
 📚 The full catalog with direct download links per version is at
 **[OJSBR/plugins](https://github.com/OJSBR/plugins#downloads)**.
