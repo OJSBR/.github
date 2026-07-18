@@ -54,7 +54,7 @@ Or pull the package from **GitHub Packages** (GHCR) with [ORAS](https://oras.lan
 
 ```bash
 oras pull ghcr.io/ojsbr/<plugin>:3.5.latest      # or 3.4.latest
-tar -xzf <plugin>-*.tar.gz -C /path/to/ojs-or-omp/plugins/generic/
+tar -xzf <plugin>-*.tar.gz -C /path/to/ojs-or-omp/plugins/generic/   # block plugins → plugins/blocks/
 ```
 
 > 🇧🇷 Baixe o `.tar.gz` da versão do seu OJS/OMP em **Releases** e envie em
