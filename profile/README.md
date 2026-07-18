@@ -26,8 +26,11 @@ tab (GitHub Container Registry).
 | [orcidManualEntry](https://github.com/OJSBR/orcidManualEntry) | Restores a manual ORCID field when ORCID OAuth is not configured (authenticated ORCID stays recommended) | 3.5 | [Releases](https://github.com/OJSBR/orcidManualEntry/releases) |
 | [ojsbr-webhook](https://github.com/OJSBR/ojsbr-webhook) | Sends HTTP webhooks when submissions are created and articles published | 3.4 | [Releases](https://github.com/OJSBR/ojsbr-webhook/releases) |
 | [reviewerRecommendationManager](https://github.com/OJSBR/reviewerRecommendationManager) | Rename (multilingual), reorder and disable reviewer recommendations, preserving review history | 3.4 · 3.5 | [Releases](https://github.com/OJSBR/reviewerRecommendationManager/releases) |
+| [reviewerDirectory](https://github.com/OJSBR/reviewerDirectory) | Editor-only directory of reviewers (profiles + review stats, active-submission IDs, configurable columns, Excel export) and a period/issue reviewer roster (nominata) | 3.5 | [Releases](https://github.com/OJSBR/reviewerDirectory/releases) |
 | [accessibility](https://github.com/OJSBR/accessibility) | Sidebar accessibility controls for readers: zoom in/out, high-contrast toggle and reset (preferences persist) | 3.3 · 3.4 · 3.5 | [Releases](https://github.com/OJSBR/accessibility/releases) |
+| [languageToggleByFlag](https://github.com/OJSBR/languageToggleByFlag) | Sidebar language switcher with country flags (also works on OMP/OPS); adapted for 3.5 by OJSBR, original by Lepidus Tecnologia | 3.5 | [Releases](https://github.com/OJSBR/languageToggleByFlag/releases) |
 | [vlibras](https://github.com/OJSBR/vlibras) | Embeds the VLibras widget (Brazilian government's Portuguese→Libras sign-language translator) with its floating avatar | 3.3 · 3.4 · 3.5 | [Releases](https://github.com/OJSBR/vlibras/releases) |
+| [pln](https://github.com/OJSBR/pln) | PKP Preservation Network (PLN / PKP PN) — unofficial OJS 3.5 build (based on pkp/pln#117), maintained until the official release | 3.5 | [Releases](https://github.com/OJSBR/pln/releases) |
 
 ### Open Monograph Press (OMP)
 
