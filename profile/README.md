@@ -2,7 +2,7 @@
 
 Open-source **plugins for PKP software** — [Open Journal Systems (OJS)](https://pkp.sfu.ca/software/ojs/)
 and [Open Monograph Press (OMP)](https://pkp.sfu.ca/software/omp/) — maintained by the
-Brazilian community at **[ojsbr.com.br](https://ojsbr.com.br)**.
+Brazilian community at **[ojsbr.com](https://ojsbr.com)**.
 
 > 🇧🇷 Plugins de código aberto para os softwares da **PKP** (OJS e OMP), mantidos pela OJSBR.
 > Tudo aqui é distribuído sob a **GNU GPL v3**, para toda a comunidade usar e contribuir.
@@ -68,5 +68,5 @@ Contributions are welcome in each plugin's repository — see its `CONTRIBUTING.
 
 ## Contact
 
-- Site: [ojsbr.com.br](https://ojsbr.com.br)
+- Site: [ojsbr.com](https://ojsbr.com)
 - GitHub: [github.com/OJSBR](https://github.com/OJSBR)
