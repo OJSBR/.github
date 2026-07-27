@@ -31,6 +31,7 @@ tab (GitHub Container Registry).
 | [languageToggleByFlag](https://github.com/OJSBR/languageToggleByFlag) | Sidebar language switcher with country flags (also works on OMP/OPS); adapted for 3.5 by OJSBR, original by Lepidus Tecnologia | 3.5 | [Releases](https://github.com/OJSBR/languageToggleByFlag/releases) |
 | [vlibras](https://github.com/OJSBR/vlibras) | Embeds the VLibras widget (Brazilian government's Portuguese→Libras sign-language translator) with its floating avatar | 3.3 · 3.4 · 3.5 | [Releases](https://github.com/OJSBR/vlibras/releases) |
 | [pln](https://github.com/OJSBR/pln) | PKP Preservation Network (PLN / PKP PN) — unofficial OJS 3.5 build (based on pkp/pln#117), maintained until the official release | 3.5 | [Releases](https://github.com/OJSBR/pln/releases) |
+| [shariff](https://github.com/OJSBR/shariff) | Privacy-friendly social media share buttons (Shariff) — unofficial OJS/OMP 3.5 build of ojsde/shariff with the Portuguese fixes proposed in ojsde/shariff#54, maintained until the official release | 3.5 | [Releases](https://github.com/OJSBR/shariff/releases) |
 
 ### Open Monograph Press (OMP)
 
