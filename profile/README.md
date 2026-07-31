@@ -42,7 +42,7 @@ tab (GitHub Container Registry).
 | [customMetadata](https://github.com/OJSBR/customMetadata) | Configurable extra metadata fields on the publication Metadata tab | 3.4 · 3.5 | [Releases](https://github.com/OJSBR/customMetadata/releases) |
 | [crossref](https://github.com/OJSBR/crossref) | Crossref DOI registration/export for monographs and chapters (fills a gap OMP core lacks) | 3.4 · 3.5 | [Releases](https://github.com/OJSBR/crossref/releases) |
 | [assignEditorGeneral](https://github.com/OJSBR/assignEditorGeneral) | Automatically assigns all active General Editors to each new submission | 3.5 | [Releases](https://github.com/OJSBR/assignEditorGeneral/releases) |
-| [keywordCloudClassicBeautiful](https://github.com/OJSBR/keywordCloudClassicBeautiful) | Packed keyword cloud sized by frequency (the classic behaviour restored), self-contained; original keywordCloud by PKP/SFU, maintained by Lepidus | 3.5 | [Releases](https://github.com/OJSBR/keywordCloudClassicBeautiful/releases) |
+| [keywordCloudClassicBeautiful](https://github.com/OJSBR/keywordCloudClassicBeautiful) | Packed keyword cloud sized by frequency (the classic behaviour restored), self-contained; original keywordCloud by PKP/SFU, maintained by Lepidus | 3.4 · 3.5 | [Releases](https://github.com/OJSBR/keywordCloudClassicBeautiful/releases) |
 
 📚 The full catalog with direct download links per version is at
 **[OJSBR/plugins](https://github.com/OJSBR/plugins#downloads)**.
