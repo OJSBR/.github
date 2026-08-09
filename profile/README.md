@@ -12,7 +12,29 @@ Each plugin lives in its own repository, with **one branch per supported PKP ver
 repo's **Releases** page and in the **[Packages](https://github.com/orgs/OJSBR/packages)**
 tab (GitHub Container Registry).
 
+When a plugin exists for both applications, the OMP edition lives in its own repository with
+an **`Omp` suffix** (`staticEditorialTeam` → `staticEditorialTeamOmp`). The plugin folder
+inside the package keeps the original name — PKP derives the class namespace from the
+installation directory, so never rename it.
+
+> 🇧🇷 Quando o plugin existe para as duas aplicações, a versão de OMP tem repositório próprio
+> com o sufixo **`Omp`**. A pasta do plugin dentro do pacote mantém o nome original — o PKP
+> deriva o namespace da classe do diretório de instalação, então não renomeie a pasta.
+
 ## Plugins
+
+### Works on both OJS and OMP
+
+The same package installs on either application.
+
+> 🇧🇷 O mesmo pacote serve para as duas aplicações.
+
+| Plugin | What it does | Versions | Download |
+|--------|--------------|----------|----------|
+| [accessibility](https://github.com/OJSBR/accessibility) | Sidebar accessibility controls for readers: zoom in/out, high-contrast toggle and reset (preferences persist) | 3.3 · 3.4 · 3.5 | [Releases](https://github.com/OJSBR/accessibility/releases) |
+| [vlibras](https://github.com/OJSBR/vlibras) | Embeds the VLibras widget (Brazilian government's Portuguese→Libras sign-language translator) with its floating avatar | 3.3 · 3.4 · 3.5 | [Releases](https://github.com/OJSBR/vlibras/releases) |
+| [languageToggleByFlag](https://github.com/OJSBR/languageToggleByFlag) | Sidebar language switcher with country flags (also works on OPS); adapted for 3.5 by OJSBR, original by Lepidus Tecnologia | 3.5 | [Releases](https://github.com/OJSBR/languageToggleByFlag/releases) |
+| [shariff](https://github.com/OJSBR/shariff) | Privacy-friendly social media share buttons (Shariff) — unofficial OJSBR build of ojsde/shariff with the Portuguese fixes proposed in ojsde/shariff#54, maintained until the official release | 3.5 | [Releases](https://github.com/OJSBR/shariff/releases) |
 
 ### Open Journal Systems (OJS)
 
@@ -24,27 +46,33 @@ tab (GitHub Container Registry).
 | [whatsAppContributor](https://github.com/OJSBR/whatsAppContributor) | Adds a Phone/WhatsApp (E.164) field to the contributor form | 3.4 · 3.5 | [Releases](https://github.com/OJSBR/whatsAppContributor/releases) |
 | [doiInSummary](https://github.com/OJSBR/doiInSummary) | Shows the article DOI in the issue summary and journal home page | 3.4 · 3.5 | [Releases](https://github.com/OJSBR/doiInSummary/releases) |
 | [ojsbrFilenameRename](https://github.com/OJSBR/ojsbrFilenameRename) | Renames the file delivered on download (configurable pattern) | 3.4 · 3.5 | [Releases](https://github.com/OJSBR/ojsbrFilenameRename/releases) |
-| [orcidManualEntry](https://github.com/OJSBR/orcidManualEntry) | Restores a manual ORCID field when ORCID OAuth is not configured (authenticated ORCID stays recommended) | 3.5 | [Releases](https://github.com/OJSBR/orcidManualEntry/releases) |
-| [ojsbr-webhook](https://github.com/OJSBR/ojsbr-webhook) | Sends HTTP webhooks when submissions are created and articles published | 3.4 | [Releases](https://github.com/OJSBR/ojsbr-webhook/releases) |
 | [reviewerRecommendationManager](https://github.com/OJSBR/reviewerRecommendationManager) | Rename (multilingual), reorder and disable reviewer recommendations, preserving review history | 3.4 · 3.5 | [Releases](https://github.com/OJSBR/reviewerRecommendationManager/releases) |
+| [orcidManualEntry](https://github.com/OJSBR/orcidManualEntry) | Restores a manual ORCID field when ORCID OAuth is not configured (authenticated ORCID stays recommended) | 3.5 | [Releases](https://github.com/OJSBR/orcidManualEntry/releases) |
 | [staticEditorialTeam](https://github.com/OJSBR/staticEditorialTeam) | Brings back the static Editorial Team page: shows the journal's free-text setting instead of the dynamic masthead listing introduced in 3.5 | 3.5 | [Releases](https://github.com/OJSBR/staticEditorialTeam/releases) |
 | [classicUserEditor](https://github.com/OJSBR/classicUserEditor) | Restores direct editing of users (given name, family name, email and roles) for managers and administrators, alongside the 3.5 invitation manager | 3.5 | [Releases](https://github.com/OJSBR/classicUserEditor/releases) |
 | [authorContributorEditor](https://github.com/OJSBR/authorContributorEditor) | Gives authors back the editing of the contributor list of their own submissions when their user group is allowed to edit submission metadata, as in 3.3/3.4 | 3.5 | [Releases](https://github.com/OJSBR/authorContributorEditor/releases) |
 | [reviewerDirectory](https://github.com/OJSBR/reviewerDirectory) | Editor-only directory of reviewers (profiles + review stats, active-submission IDs, configurable columns, Excel export) and a period/issue reviewer roster (nominata) | 3.5 | [Releases](https://github.com/OJSBR/reviewerDirectory/releases) |
 | [controlledVocabSplitter](https://github.com/OJSBR/controlledVocabSplitter) | Splits keywords, subjects, disciplines and supporting agencies pasted as a single line into separate terms, in the field and on every save (semicolon, comma or period; keeps legal references and species initials whole) | 3.5 | [Releases](https://github.com/OJSBR/controlledVocabSplitter/releases) |
-| [accessibility](https://github.com/OJSBR/accessibility) | Sidebar accessibility controls for readers: zoom in/out, high-contrast toggle and reset (preferences persist) | 3.3 · 3.4 · 3.5 | [Releases](https://github.com/OJSBR/accessibility/releases) |
-| [languageToggleByFlag](https://github.com/OJSBR/languageToggleByFlag) | Sidebar language switcher with country flags (also works on OMP/OPS); adapted for 3.5 by OJSBR, original by Lepidus Tecnologia | 3.5 | [Releases](https://github.com/OJSBR/languageToggleByFlag/releases) |
-| [vlibras](https://github.com/OJSBR/vlibras) | Embeds the VLibras widget (Brazilian government's Portuguese→Libras sign-language translator) with its floating avatar | 3.3 · 3.4 · 3.5 | [Releases](https://github.com/OJSBR/vlibras/releases) |
+| [requiredMultilingualMetadata](https://github.com/OJSBR/requiredMultilingualMetadata) | Require the title, the abstract and the keywords in metadata languages beyond the submission language | 3.5 | [Releases](https://github.com/OJSBR/requiredMultilingualMetadata/releases) |
 | [pln](https://github.com/OJSBR/pln) | PKP Preservation Network (PLN / PKP PN) — unofficial OJS 3.5 build (based on pkp/pln#117), maintained until the official release | 3.5 | [Releases](https://github.com/OJSBR/pln/releases) |
-| [shariff](https://github.com/OJSBR/shariff) | Privacy-friendly social media share buttons (Shariff) — unofficial OJS/OMP 3.5 build of ojsde/shariff with the Portuguese fixes proposed in ojsde/shariff#54, maintained until the official release | 3.5 | [Releases](https://github.com/OJSBR/shariff/releases) |
+| [ojsbr-webhook](https://github.com/OJSBR/ojsbr-webhook) | Sends HTTP webhooks when submissions are created and articles published | 3.4 | [Releases](https://github.com/OJSBR/ojsbr-webhook/releases) |
 
 ### Open Monograph Press (OMP)
 
 | Plugin | What it does | Versions | Download |
 |--------|--------------|----------|----------|
-| [customMetadata](https://github.com/OJSBR/customMetadata) | Configurable extra metadata fields on the publication Metadata tab | 3.4 · 3.5 | [Releases](https://github.com/OJSBR/customMetadata/releases) |
 | [crossref](https://github.com/OJSBR/crossref) | Crossref DOI registration/export for monographs and chapters (fills a gap OMP core lacks) | 3.4 · 3.5 | [Releases](https://github.com/OJSBR/crossref/releases) |
+| [customMetadata](https://github.com/OJSBR/customMetadata) | Configurable extra metadata fields on the publication Metadata tab | 3.4 · 3.5 | [Releases](https://github.com/OJSBR/customMetadata/releases) |
 | [assignEditorGeneral](https://github.com/OJSBR/assignEditorGeneral) | Automatically assigns all active General Editors to each new submission | 3.5 | [Releases](https://github.com/OJSBR/assignEditorGeneral/releases) |
+| [keywordCloudClassicBeautifulOmp](https://github.com/OJSBR/keywordCloudClassicBeautifulOmp) | Packed keyword cloud of the press's books, sized and coloured by frequency, self-contained (no CDN) | 3.5 | [Releases](https://github.com/OJSBR/keywordCloudClassicBeautifulOmp/releases) |
+| [mostReadOmp](https://github.com/OJSBR/mostReadOmp) | Sidebar block with the most-read books of a time window | 3.5 | [Releases](https://github.com/OJSBR/mostReadOmp/releases) |
+| [staticEditorialTeamOmp](https://github.com/OJSBR/staticEditorialTeamOmp) | Brings back the static Editorial Team page: shows the press's free-text setting instead of the dynamic masthead listing | 3.5 | [Releases](https://github.com/OJSBR/staticEditorialTeamOmp/releases) |
+| [classicUserEditorOmp](https://github.com/OJSBR/classicUserEditorOmp) | Restores direct editing of users (name, email and roles) for managers and administrators, alongside the 3.5 invitation manager | 3.5 | [Releases](https://github.com/OJSBR/classicUserEditorOmp/releases) |
+| [controlledVocabSplitterOmp](https://github.com/OJSBR/controlledVocabSplitterOmp) | Splits keywords, subjects, disciplines and supporting agencies pasted as a single line into separate terms, in the field and on every save | 3.5 | [Releases](https://github.com/OJSBR/controlledVocabSplitterOmp/releases) |
+| [ojsbrFilenameRenameOmp](https://github.com/OJSBR/ojsbrFilenameRenameOmp) | Renames the file delivered on download (configurable pattern), without touching the file on disk | 3.5 | [Releases](https://github.com/OJSBR/ojsbrFilenameRenameOmp/releases) |
+| [orcidManualEntryOmp](https://github.com/OJSBR/orcidManualEntryOmp) | Restores a manual ORCID field on the contributor form when ORCID OAuth is not configured | 3.5 | [Releases](https://github.com/OJSBR/orcidManualEntryOmp/releases) |
+| [requiredMultilingualMetadataOmp](https://github.com/OJSBR/requiredMultilingualMetadataOmp) | Require the title, the abstract and the keywords in languages beyond the submission language | 3.5 | [Releases](https://github.com/OJSBR/requiredMultilingualMetadataOmp/releases) |
+| [reviewerDirectoryOmp](https://github.com/OJSBR/reviewerDirectoryOmp) | Editor-only directory of reviewers (profiles + review stats) and a per-period or per-series reviewer roster (nominata) | 3.5 | [Releases](https://github.com/OJSBR/reviewerDirectoryOmp/releases) |
 
 📚 The full catalog with direct download links per version is at
 **[OJSBR/plugins](https://github.com/OJSBR/plugins#downloads)**.
