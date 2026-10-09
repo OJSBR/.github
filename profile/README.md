@@ -36,6 +36,7 @@ The same package installs on either application.
 | [vlibras](https://github.com/OJSBR/vlibras) | Embeds the VLibras widget (Brazilian government's Portuguese→Libras sign-language translator) with its floating avatar | 3.3 · 3.4 · 3.5 | [Releases](https://github.com/OJSBR/vlibras/releases) |
 | [languageToggleByFlag](https://github.com/OJSBR/languageToggleByFlag) | Sidebar language switcher with country flags (also works on OPS); adapted for 3.5 by OJSBR, original by Lepidus Tecnologia | 3.5 | [Releases](https://github.com/OJSBR/languageToggleByFlag/releases) |
 | [shariff](https://github.com/OJSBR/shariff) | Privacy-friendly social media share buttons (Shariff) — unofficial OJSBR build of ojsde/shariff with the Portuguese fixes proposed in ojsde/shariff#54, maintained until the official release | 3.5 | [Releases](https://github.com/OJSBR/shariff/releases) |
+| [visitorMap](https://github.com/OJSBR/visitorMap) | Sidebar block with a world map of where the accesses to the journal or press come from, built from the platform's own usage statistics, with no third-party tracking | 3.5 | [Releases](https://github.com/OJSBR/visitorMap/releases) |
 
 ### Open Journal Systems (OJS)
 
@@ -43,7 +44,6 @@ The same package installs on either application.
 |--------|--------------|----------|----------|
 | [viewcounter](https://github.com/OJSBR/viewcounter) | Shows each article's abstract views and downloads on summaries and article pages | 3.4 · 3.5 | [Releases](https://github.com/OJSBR/viewcounter/releases) |
 | [mostRead](https://github.com/OJSBR/mostRead) | Sidebar block with the most-read articles of a time window | 3.4 · 3.5 | [Releases](https://github.com/OJSBR/mostRead/releases) |
-| [visitorMap](https://github.com/OJSBR/visitorMap) | Sidebar block with a world map of where the journal's accesses come from, built from OJS's own usage statistics, with no third-party tracking | 3.5 | [Releases](https://github.com/OJSBR/visitorMap/releases) |
 | [keywordCloudClassicBeautiful](https://github.com/OJSBR/keywordCloudClassicBeautiful) | Packed keyword cloud sized by frequency (the classic behaviour restored), self-contained; original keywordCloud by PKP/SFU, maintained by Lepidus | 3.4 · 3.5 | [Releases](https://github.com/OJSBR/keywordCloudClassicBeautiful/releases) |
 | [whatsAppContributor](https://github.com/OJSBR/whatsAppContributor) | Adds a Phone/WhatsApp (E.164) field to the contributor form and, optionally, to user registration; carries the submitter's phone to their authorship | 3.4 · 3.5 | [Releases](https://github.com/OJSBR/whatsAppContributor/releases) |
 | [reviewerLattes](https://github.com/OJSBR/reviewerLattes) | Asks people who sign up as reviewers (registration form, registration through ORCID, profile roles) for the link to their Lattes CV (CNPq, Brazil), validated and stored as the account URL; each journal decides who must give it and may keep students from reviewing |
