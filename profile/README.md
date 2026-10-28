@@ -38,6 +38,7 @@ The same package installs on either application.
 | [shariff](https://github.com/OJSBR/shariff) | Privacy-friendly social media share buttons (Shariff) — unofficial OJSBR build of ojsde/shariff with the Portuguese fixes proposed in ojsde/shariff#54, maintained until the official release | 3.5 | [Releases](https://github.com/OJSBR/shariff/releases) |
 | [visitorMap](https://github.com/OJSBR/visitorMap) | Sidebar block with a world map of where the accesses to the journal or press come from, built from the platform's own usage statistics, with no third-party tracking | 3.5 | [Releases](https://github.com/OJSBR/visitorMap/releases) |
 | [doiInSummary](https://github.com/OJSBR/doiInSummary) | Shows the DOI of each article, preprint or book in the lists readers browse: issue tables of contents, lists of preprints, the catalogue, home pages and search results (also works on OPS) | 3.4 (OJS) · 3.5 | [Releases](https://github.com/OJSBR/doiInSummary/releases) |
+| [customMetadata](https://github.com/OJSBR/customMetadata) | Configurable extra metadata fields on the publication Metadata tab, each one editable by the authors too or by the editors only | 3.4 (OMP) · 3.5 | [Releases](https://github.com/OJSBR/customMetadata/releases) |
 
 ### Open Journal Systems (OJS)
 
@@ -73,7 +74,6 @@ The same package installs on either application.
 | Plugin | What it does | Versions | Download |
 |--------|--------------|----------|----------|
 | [crossref](https://github.com/OJSBR/crossref) | Crossref DOI registration/export for monographs and chapters (fills a gap OMP core lacks) | 3.4 · 3.5 | [Releases](https://github.com/OJSBR/crossref/releases) |
-| [customMetadata](https://github.com/OJSBR/customMetadata) | Configurable extra metadata fields on the publication Metadata tab | 3.4 · 3.5 | [Releases](https://github.com/OJSBR/customMetadata/releases) |
 | [assignEditorGeneral](https://github.com/OJSBR/assignEditorGeneral) | Automatically assigns all active General Editors to each new submission | 3.5 | [Releases](https://github.com/OJSBR/assignEditorGeneral/releases) |
 | [keywordCloudClassicBeautifulOmp](https://github.com/OJSBR/keywordCloudClassicBeautifulOmp) | Packed keyword cloud of the press's books, sized and coloured by frequency, self-contained (no CDN) | 3.5 | [Releases](https://github.com/OJSBR/keywordCloudClassicBeautifulOmp/releases) |
 | [mostReadOmp](https://github.com/OJSBR/mostReadOmp) | Sidebar block with the most-read books of a time window | 3.5 | [Releases](https://github.com/OJSBR/mostReadOmp/releases) |
