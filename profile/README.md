@@ -116,4 +116,7 @@ Contributions are welcome in each plugin's repository — see its `CONTRIBUTING.
 ## Contact
 
 - Site: [ojsbr.com](https://ojsbr.com)
+- Company: OJSBR is part of [stnt](https://stnt.ia.br/en/), which also builds Sodalis (membership management) and Eventum (event management)
 - GitHub: [github.com/OJSBR](https://github.com/OJSBR)
+
+> 🇧🇷 A OJSBR é uma empresa da [stnt](https://stnt.ia.br/), que também desenvolve o Sodalis (gestão de associados) e o Eventum (controle de eventos).
